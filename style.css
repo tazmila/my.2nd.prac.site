@@ -1,0 +1,78 @@
+body{
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+}
+span{
+    color: rgb(10, 73, 190);
+}
+.link{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(115, 115, 156), purple);
+    color: darkorange;
+    width: 100px;
+    padding:1%;
+    border-radius: 7px;
+    font-weight: 400;
+}
+.dis{
+    display: flex;
+    margin-bottom: 0%;
+  }
+#sty{
+    border-left: 7px solid;
+    border-image: linear-gradient(red, pink);
+    border-image-slice: 1;
+    font-size: 50px;
+}
+.setting{
+    width: 50%;
+    border: 10%;
+    padding: 5%;
+    padding-left: 2%;
+}
+.setting img{
+    width: 80%;
+    padding-left: 20%;
+    padding-bottom: 10%;
+}
+.second{
+    text-align: center;
+    font-size: 50px;
+}
+.design-flex{
+    background-color: rgb(182, 202, 202);
+    box-shadow: 10px 10px 100px, rgb(12, 12, 12);
+    width: 50%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    
+}
+.design-flex img{
+    width: 80%;
+}
+#bg-2{
+    background-color: antiquewhite;
+}
+#bg-3{
+    background-color: rgb(194, 180, 201);
+}
+#back-g{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#img-bg{
+    background-image: url(my-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+#lp{
+    color: red;
+}
+.last-p{
+    text-align: center;
+    background-color: rgb(247, 150, 106);
+    margin-bottom: 0px;
+}
